@@ -1,0 +1,8 @@
+site_name: My Documents
+
+nav:
+    - Home: index.md
+    - About: mkdocs_setup.md
+
+theme:
+  name: 'material'

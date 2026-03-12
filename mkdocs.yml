@@ -1,0 +1,6 @@
+docs_dir: Construction
+
+site_name: Finances
+
+theme:
+  name: material

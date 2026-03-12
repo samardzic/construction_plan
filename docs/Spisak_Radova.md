@@ -3,7 +3,7 @@
 <br/>
 
 
-# Detaljan spisak radova za izgradnju stambene zgrade (~500 m² neto)
+# Detaljan spisak radova za izgradnju zgrade (~500 m²)
 
 Objekat:
 - manja stambena zgrada

@@ -19,7 +19,7 @@ echo.
 
 
 ECHO --- MKdocs server run ---
-cmd.exe /c start /min cmd /k mkdocs serve -a %IP_ADDRESS%:%SERVER_PORT%
+cmd.exe /c start /min cmd /k mkdocs serve --livereload -a %IP_ADDRESS%:%SERVER_PORT%
 :: call start cmd /k mkdocs serve -a %IP_ADDRESS%:%SERVER_PORT%
 echo.
 :: /************************************************************************************/

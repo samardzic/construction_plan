@@ -7,7 +7,7 @@
 
 
 
-# Mini developerski finansijski plan – zgrada ~600 m² (Srbija)
+# Mini developerski finansijski plan ~600 m²
 
 Ovaj dokument predstavlja prošireni finansijski i prostorni model za mali developerski projekat izgradnje stambene zgrade u Srbiji.
 

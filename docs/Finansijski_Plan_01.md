@@ -6,7 +6,7 @@
 
 
 
-# Mini finansijski plan za izgradnju zgrade (~600 m²)
+# Mini finansijski plan za izgradnju (~600 m²)
 
 Ovaj dokument predstavlja pojednostavljen finansijski model za mali developerski projekat u Srbiji.
 
@@ -83,26 +83,26 @@ Ukupno:
 
 # 4. Cash-flow tokom gradnje (18 meseci)
 
-| Mesec | Aktivnost          | Trošak   | Prihod                   |
-|:------|:-------------------|:---------|:-------------------------|
-| 1     | Projekti i dozvole | 20.000 € |                          |
-| 2     | Priprema gradnje   | 10.000 € |                          |
-| 3     | Temelji            | 40.000 € |                          |
-| 4     | Konstrukcija       | 40.000 € |                          |
-| 5     | Konstrukcija       | 40.000 € |                          |
-| 6     | Konstrukcija       | 40.000 € | 60.000 € (avans prodaje) |
-| 7     | Roh-bau            | 40.000 € |                          |
-| 8     | Roh-bau            | 40.000 € | 30.000 €                 |
-| 9     | Krov               | 30.000 € |                          |
-| 10    | Instalacije        | 40.000 € |                          |
-| 11    | Instalacije        | 40.000 € |                          |
-| 12    | Fasada             | 35.000 € | 30.000 €                 |
-| 13    | Završni radovi     | 35.000 € |                          |
-| 14    | Završni radovi     | 35.000 € |                          |
-| 15    | Završni radovi     | 30.000 € |                          |
-| 16    | Tehnički prijem    | 10.000 € |                          |
-| 17    | Prodaja stanova    |          | 300.000 €                |
-| 18    | Prodaja stanova    |          | 432.000 €                |
+| Mesec | Aktivnost                 | Trošak   | Prihod                   |
+|:------|:--------------------------|:---------|:-------------------------|
+| 1     | Projekti i dozvole        | 20.000 € |                          |
+| 2     | Priprema gradnje          | 10.000 € |                          |
+| 3     | Temelji                   | 40.000 € |                          |
+| 4     | Konstrukcija - Prizemlje  | 40.000 € |                          |
+| 5     | Konstrukcija - 1 Sprat    | 40.000 € |                          |
+| 6     | Konstrukcija - Potkrovlje | 40.000 € | 60.000 € (avans prodaje) |
+| 7     | Roh-bau                   | 40.000 € |                          |
+| 8     | Roh-bau                   | 40.000 € | 30.000 €                 |
+| 9     | Krov                      | 30.000 € |                          |
+| 10    | Instalacije               | 40.000 € |                          |
+| 11    | Instalacije               | 40.000 € |                          |
+| 12    | Fasada                    | 35.000 € | 30.000 €                 |
+| 13    | Završni radovi            | 35.000 € |                          |
+| 14    | Završni radovi            | 35.000 € |                          |
+| 15    | Završni radovi            | 30.000 € |                          |
+| 16    | Tehnički prijem           | 10.000 € |                          |
+| 17    | Prodaja stanova           |          | 300.000 €                |
+| 18    | Prodaja stanova           |          | 432.000 €                |
 
 ---
 

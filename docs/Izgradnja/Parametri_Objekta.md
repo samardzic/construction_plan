@@ -1,4 +1,4 @@
-# Parametri Objekta (500 m² neto)
+# Parametri Objekta
 
 ## Osnovni parametri objekta
 

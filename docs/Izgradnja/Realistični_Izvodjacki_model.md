@@ -7,7 +7,7 @@
 
 
 
-# Realistični developerski model – zgrada ~600 m² (Srbija)
+# Realistični Izvodjacki model – zgrada ~600 m²
 
 Ovaj dokument predstavlja detaljniji i realističniji model planiranja male stambene zgrade u Srbiji.
 

@@ -1,4 +1,4 @@
-# Developer Project
+# Izvodjacki Project
 
 ---
 
@@ -7,7 +7,7 @@
 
 
 
-# Investicioni elaborat – manji developerski projekat stambene zgrade (Srbija)
+# Investicioni elaborat – manji izvodjacki projekat stambene zgrade
 
 ## Osnovne pretpostavke projekta
 
@@ -30,9 +30,8 @@
 
 # 1. Opis projekta
 
-Planirani projekat podrazumeva izgradnju manje stambene zgrade sa približno 600 m² neto prodajne površine.
-
-Tipičan odnos bruto / neto površine kod ovakvih zgrada iznosi:
+- Planirani projekat podrazumeva izgradnju manje stambene zgrade sa približno 600 m² neto prodajne površine.
+- Tipičan odnos bruto / neto površine kod ovakvih zgrada iznosi:
 
 | Parametar              | Procenat |
 |:-----------------------|:---------|

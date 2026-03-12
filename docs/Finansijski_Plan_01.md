@@ -1,4 +1,4 @@
-# Kredit2.md
+# Mini finansijski plan
 
 ---
 
@@ -6,7 +6,7 @@
 
 
 
-# Mini finansijski plan za izgradnju stambene zgrade (~600 m²)
+# Mini finansijski plan za izgradnju zgrade (~600 m²)
 
 Ovaj dokument predstavlja pojednostavljen finansijski model za mali developerski projekat u Srbiji.
 

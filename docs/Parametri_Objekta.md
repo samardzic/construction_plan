@@ -1,4 +1,4 @@
-# Parametri planirane stambene zgrade (500 m² neto)
+# Parametri Objekta (500 m² neto)
 
 ## Osnovni parametri objekta
 

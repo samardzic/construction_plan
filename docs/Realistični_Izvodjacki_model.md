@@ -1,4 +1,4 @@
-# Kredit4.md
+# Realistični Izvodjacki model 
 
 ---
 

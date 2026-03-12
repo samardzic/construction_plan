@@ -1,4 +1,4 @@
-# Kredit3.md
+# Finansijski Plan
 
 ---
 

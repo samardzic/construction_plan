@@ -1,4 +1,4 @@
-# checklist_tehnicki_prijem.md
+# Tehnicki Prijem Objekta
 
 # Checklista za tehnički prijem objekta
 

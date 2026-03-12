@@ -1,10 +1,9 @@
 
-# Financial goals and strategies
+# Intro
 
-## Project focus
+- Glavni fokus ove dokumentacije je organizacija i priprema koja je potrebna vezano za radove na izgradnji novih stambenih objekata (kuce, zgrade i sl).
+- Naravno, svi podatci su cisto informativnog karaktera. Ukoliko planirate izgradnju sami istrazite i proverite cene i trziste.
+- Ova dokumentacija je za moju licnu upotrebu i ne preuzimam nikakvu odgovornost za bilo kakve posledice koje mogu nastati ukoliko neko drugi bude analizirao ovu dokumentaciju.
 
-This repo is dedicated to the finances in general
-- Main focus is on financial literacy
-- Strategies for improving financial situation
 
 

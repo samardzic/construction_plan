@@ -1,2 +1,2 @@
-# finances_general
-Bussiness goals and ideas
+# construction_plan
+Organizacija radova vezanih za izgradnju stambenih objekata.
